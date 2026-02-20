@@ -2,3 +2,10 @@ body{
     background-color: rgb(255, 240, 240);
     color: rgb(0, 0, 0);
 }
+
+.carnval{
+
+
+    display: flex;
+    font-size: medium;
+}
